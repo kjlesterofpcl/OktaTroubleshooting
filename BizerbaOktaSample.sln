@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizerbaOktaSample", "BizerbaOktaSample\BizerbaOktaSample.csproj", "{AB0BFBA1-A1F7-450E-8974-54523334966C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0BFBA1-A1F7-450E-8974-54523334966C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0BFBA1-A1F7-450E-8974-54523334966C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0BFBA1-A1F7-450E-8974-54523334966C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0BFBA1-A1F7-450E-8974-54523334966C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

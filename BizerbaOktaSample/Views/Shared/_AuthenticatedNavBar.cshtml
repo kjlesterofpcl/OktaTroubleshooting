@@ -1,0 +1,6 @@
+<div class="navbar-nav">
+    <a class="nav-item nav-link" asp-controller="Home" asp-action="Index">Home</a>
+</div>
+<form id="logoutForm" class="ml-auto" asp-controller="Account" asp-action="Logout" method="post">
+    <a class="btn btn-danger" tabindex="0" onclick="document.getElementById('logoutForm').submit();">Logout</a>
+</form>
